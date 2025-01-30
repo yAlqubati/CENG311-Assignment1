@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color:cornflowerblue;
+    text-align: center;
+    font-family: Cursive;
+    margin-bottom: 35px;
+}
+
+p{
+    color: darkblue;
+    font-size: 20px;
+    text-align:center;
+}
+
+.top-left{
+    text-align: left;
+    top: 8px;
+    left: 16px;
+    font-size: 15px;
+    color: darkolivegreen;
+}
